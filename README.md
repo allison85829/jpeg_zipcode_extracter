@@ -28,7 +28,8 @@ python3 imggps.py img1.py img2.py
 
 Linux:
 1. Run linux_setup file
-```chmod 777 linux_setup
+```
+chmod 777 linux_setup
 ./linux_setup 
 ```
 2. Run the program 
