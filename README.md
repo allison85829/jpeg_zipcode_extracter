@@ -1,20 +1,19 @@
 # jpeg_zipcode_extracter
 
-"imggps.py" program take jpeg images as input and display the zipcode of the location where the images are taken. 
+- "imggps.py" program take jpeg images as input and display the zipcode of the location where the images are taken. 
 Return -1 if it couldn't find the zipcode or the type of file is not supported. 
 
-imggps.py only support jpeg with Exif application marker. 
+- imggps.py only support jpeg with Exif application marker. 
 
-The program can take in multiples images as command line arguments at the same time.
-
+- The program can take in multiples images as command line arguments at the same time.
 eg: python3 imggps.py img1.jpg img2.jpg 
 
-The program can run on Linux, MacOS and Windows operating system. 
-There are instruction for setting up the required Python libraries code for each operating system. 
+- The program can run on Linux, MacOS and Windows operating system. 
+- There are instruction for setting up the required Python libraries code for each operating system. 
 
 ***********
 Requirements:
-	- Need to have python3 installed 
+- Need to have python3 installed 
 
 MacOS:
 1. Run macos_setup file 
