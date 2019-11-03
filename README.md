@@ -17,8 +17,10 @@ Requirements:
 
 MacOS:
 1. Run macos_setup file 
+```
 chmod 777 macos_setup 
-./macos_setup 
+./macos_setup
+```
 2. Run the program 
 python3 imggps.py img1.py img2.py 
 
